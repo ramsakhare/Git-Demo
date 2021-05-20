@@ -1,4 +1,4 @@
-package com.gitdemo.Activities.Adapter;
+package com.gitdemo.Adapter;
 
 
 public class UserListAdapter {
